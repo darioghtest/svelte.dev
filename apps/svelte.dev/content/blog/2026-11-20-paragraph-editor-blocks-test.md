@@ -1,6 +1,6 @@
 ---
 author: "Paragraph Test"
-authorURL: "https://x.com/paragraph_xyz"
+authorURL: "https://svelte.dev/"
 description: "A test article for GitHub publishing"
 title: "Every block Paragraph's editor makes"
 ---
